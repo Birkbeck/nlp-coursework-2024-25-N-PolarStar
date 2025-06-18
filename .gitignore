@@ -1,12 +1,12 @@
 # ignore the texts to avoid large github upload. PN
-p1-texts/novels/
-p2-texts/
+texts/
 
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+*.pickle
 
 # C extensions
 *.so
