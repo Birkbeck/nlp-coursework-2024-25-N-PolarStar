@@ -1,1 +1,12 @@
 Answers to the text questions go here.
+Part 1 
+    Question (d):
+    Answer:
+        1. The Flesch-Kincaid score doesn’t always reflect real reading difficulty, especially for poetry or literary novels. 
+        These types of texts often use unusual sentence structures, creative punctuation, or figurative language that the 
+        formula isn’t designed to handle. This can lead to misleading scores, making the text seem much easier or harder 
+        than it actually is if the writing style doesn’t follow standard rules.
+        2. Another limitation is that the Flesch-Kincaid score doesn’t consider whether the vocabulary is common or rare. 
+        Even if a text is full of technical or specialized words that most people don’t know, it might still get a 
+        low (easy) score if the words themselves are short. The formula doesn’t check if the vocabulary is familiar 
+        or used in everyday language, so it can underestimate the difficulty of texts in fields like science or law.
