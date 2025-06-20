@@ -1,12 +1,13 @@
 # ignore the texts to avoid large github upload. PN
 texts/
+pickles/
 
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
-*.pickle
+*.pkl
 
 # C extensions
 *.so
